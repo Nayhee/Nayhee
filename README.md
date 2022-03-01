@@ -6,6 +6,9 @@ I am a Certified Public Accountant and a full stack web development student at N
 
 I love to learn and I love working with other motivated individuals. If you would like to collaborate on a project, feel free to shoot me a message here or via my email address listed below. 
 
+<br>
+<br>
+
 4 Truths and 1 Lie:
 1) I've recorded a song with Rascal Flatts.
 2) I've played hockey against Pekka Rinne.
@@ -15,7 +18,6 @@ I love to learn and I love working with other motivated individuals. If you woul
 
 
 
-<br>
 <br>
 <br>
 
