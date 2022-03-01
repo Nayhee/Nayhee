@@ -15,6 +15,9 @@ I love to learn and I love working with other motivated individuals. If you woul
 
 
 
+<br>
+<br>
+<br>
 
 (I hate country music)
 
@@ -27,5 +30,5 @@ I love to learn and I love working with other motivated individuals. If you woul
 
 ### How to Reach Me:
 
-E-mail: nathantraczewski@gmail.com
+E-mail: nathantraczewski@gmail.com <br>
 Instagram: @Nayhee
