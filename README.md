@@ -6,7 +6,6 @@ I am a Certified Public Accountant and a full stack web development student at N
 
 I love to learn and I love working with other motivated individuals. If you would like to collaborate on a project, feel free to shoot me a message here or via my email address listed below. 
 
-<br>
 
 ### Projects I've been working on:
 
@@ -15,8 +14,9 @@ I love to learn and I love working with other motivated individuals. If you woul
 [Coffee House](https://github.com/Nayhee/Coffee-House) <br>
 [Congress Rep](https://github.com/Nayhee/Congress-Rep) <br>
 
-<br>
 
 ### How to Reach Me:
 
 E-mail: nathantraczewski@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/nathan-traczewski-cpa/
+<br>
