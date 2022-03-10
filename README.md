@@ -1,7 +1,7 @@
 ## Welcome!
 
 ### A little bit about me:
-I am a Certified Public Accountant and a full stack web development student at Nashville Software School working with Cohort 55 learning C#, Javascript, CSS and HTML. I find programming to be absolutely thrilling and i'm excited to continue improving each day. 
+I am a CPA and a full stack web development student at Nashville Software School working with Cohort 55 learning C#, Javascript, CSS and HTML. I find programming to be absolutely thrilling and i'm excited to continue improving each day. 
 
 
 I love to learn and I love working with other motivated individuals. If you would like to collaborate on a project, feel free to shoot me a message here or via my email address listed below. 
