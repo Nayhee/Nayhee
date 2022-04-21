@@ -9,10 +9,10 @@ I love to learn and I love working with other motivated individuals. If you woul
 
 ### Projects I've been working on:
 
-[Daily Journal](https://github.com/Nayhee/Daily-Journal---NT)<br>
-[Learn Something](https://github.com/Nayhee/Learn-Something)<br>
-[Coffee House](https://github.com/Nayhee/Coffee-House) <br>
-[Congress Rep](https://github.com/Nayhee/Congress-Rep) <br>
+[Putt Tracker - My Front-End Capstone](https://github.com/Nayhee/Capstone-NT)<br>
+[Kennels](https://github.com/Nayhee/Kennels)<br>
+[Daily Journal](https://github.com/Nayhee/Daily-Journal---NT) <br>
+[Dotard Simbleton](https://github.com/Nayhee/Dotard-) <br>
 
 
 ### How to Reach Me:
