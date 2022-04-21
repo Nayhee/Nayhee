@@ -4,7 +4,7 @@ Hi 👋 My name is Nathan Traczewski
 CPA & Full-Stack Web Development Student
 ----------------------------------------
 
-Driven problem solver with a unique mix of technical and financial skills. I was first introduced to programming during my Master's of Accountancy degree, where I had classes on SQL and immediately fell in love with manipulating data to solve problems. I was hooked. The timing was unfortunate, given that I had just passed all 4 sections of the CPA exam and was stepping into my accounting career. After 3 years as a Public Company Auditor at Deloitte, I decided it was time to fully commit to my passion for Programming and attend Nashville Software School. I love to learn and I look forward to the future.
+Driven problem solver with a unique mix of technical and financial skills. I was first introduced to programming during my Master's of Accountancy degree, where I had classes on SQL and immediately fell in love with manipulating data to solve problems. I was hooked. The timing was unfortunate, given that I had just passed all 4 sections of the CPA exam and was stepping into my accounting career, but after 3 years at Deloitte, I decided it was time to fully commit to my passion for Programming and attend Nashville Software School.
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [nathantraczewski@gmail.com](mailto:nathantraczewski@gmail.com)
