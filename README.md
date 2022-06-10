@@ -9,8 +9,8 @@ Driven problem solver who loves to learn. I was first introduced to programming 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [nathantraczewski@gmail.com](mailto:nathantraczewski@gmail.com)
 * 🚀  I'm currently working on [Putt Tracker - My Front End Capstone](http://github.com/Nayhee/Capstone-NT)
-* 🧠  I'm learning React Js
-* 🤝  I'm open to collaborating on React Projects
+* 🧠  I'm learning C# and .Net
+* 🤝  I'm open to collaborating on C# or ReactJS Projects
 
 ### Skills
 
