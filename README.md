@@ -1,7 +1,7 @@
 Hi 👋 My name is Nathan Traczewski
 ==================================
 
-CPA & Full-Stack Web Development Student
+CPA & Full-Stack Web Developer
 ----------------------------------------
 
 Driven problem solver who loves to learn. I was first introduced to programming during my Master's of Accountancy degree, where I had classes on SQL and immediately fell in love with manipulating data to solve problems. I was hooked. The timing was unfortunate, given that I had just passed all 4 sections of the CPA exam and was stepping into my accounting career, but after 3 years at Deloitte, I decided it was time to fully commit to my passion for Programming and attend Nashville Software School.
