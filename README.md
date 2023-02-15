@@ -4,9 +4,9 @@ Hi 👋 My name is Nathan Traczewski
 Software Developer at Vanderbilt University
 ----------------------------------------
 
-I'm current building the Unified Suite for Experiments (USE), an integrated set of hardware and software tools for the design and control of behavioral neuroscience experiments. I create video games in C# for non-human primates (NPH).
+I'm current building the Unified Suite for Experiments (USE), an integrated set of hardware and software tools for the design and control of behavioral neuroscience experiments, utilizing C# and the Unity 3D engine. I also build the individual tasks (video games) played by Non-Human Primates (NHP).
 
-I was first introduced to programming during my Master's of Accountancy degree, where I had classes on SQL and immediately fell in love with manipulating data to solve problems. I was hooked. I attended Nashville Software School and now work at Vanderbilt creating video games for brain research.
+I was first introduced to programming during my Master's of Accountancy degree, where I had classes on SQL and immediately fell in love with manipulating data to solve problems. I was hooked. I attended Nashville Software School before getting a job at Vanderbilt in the Attention Circuits and Control lab of the Psychology department.
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [nathantraczewski@gmail.com](mailto:nathantraczewski@gmail.com) 
