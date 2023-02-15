@@ -1,16 +1,17 @@
 Hi 👋 My name is Nathan Traczewski
 ==================================
 
-CPA & Full-Stack Web Developer
+Software Developer at Vanderbilt University
 ----------------------------------------
 
-Driven problem solver who loves to learn. I was first introduced to programming during my Master's of Accountancy degree, where I had classes on SQL and immediately fell in love with manipulating data to solve problems. I was hooked. The timing was unfortunate, given that I had just passed all 4 sections of the CPA exam and was stepping into my accounting career, but after 3 years at Deloitte, I decided it was time to fully commit to my passion for Programming and attend Nashville Software School.
+I'm current building the Unified Suite for Experiments (USE), an integrated set of hardware and software tools for the design and control of behavioral neuroscience experiments. I create video games in C# for non-human primates (NPH).
+
+I was first introduced to programming during my Master's of Accountancy degree, where I had classes on SQL and immediately fell in love with manipulating data to solve problems. I was hooked. I attended Nashville Software School and now work at Vanderbilt creating video games for brain research.
 
 * 🌍  I'm based in Nashville, TN
-* ✉️  You can contact me at [nathantraczewski@gmail.com](mailto:nathantraczewski@gmail.com)
-* 🚀  I'm currently working on [Putt Tracker - My Front End Capstone](http://github.com/Nayhee/Capstone-NT)
-* 🧠  I'm learning C# and .Net
-* 🤝  I'm open to collaborating on C# or ReactJS Projects
+* ✉️  You can contact me at [nathantraczewski@gmail.com](mailto:nathantraczewski@gmail.com) 
+* My first App: [Putt Tracker - My Front End Capstone](http://github.com/Nayhee/Capstone-NT)
+* 🧠  I'm learning C# and Unity and am always open to collaboration
 
 ### Skills
 
