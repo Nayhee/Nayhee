@@ -10,7 +10,7 @@ I was first introduced to programming during my Master's of Accountancy degree, 
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [nathantraczewski@gmail.com](mailto:nathantraczewski@gmail.com) 
-* My first App: [Putt Tracker - My Front End Capstone](http://github.com/Nayhee/Capstone-NT)
+* My first App: [Tennessee Discs]([http://github.com/Nayhee/Capstone-NT](https://github.com/Nayhee/DISC))
 * 🧠  I'm learning C# and Unity and am always open to collaboration
 
 ### Skills
